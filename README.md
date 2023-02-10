@@ -40,22 +40,22 @@ Open [http://localhost:3000](http://localhost:3000) to call your API in the brow
 > Note: You can use Postman instead.
 
 ## Screenshots
-[http://localhost:3000](http://localhost:3000)
+#### - `http://localhost:3000`
 ![health-check-browser](/public/screenshots/health-check-browser.png)
 ![health-check-postman](/public/screenshots/health-check-postman.png)
 
-[http://localhost:3000/topPosts](http://localhost:3000/topPosts)
+#### - `http://localhost:3000/topPosts`
 ![top-posts-browser](/public/screenshots/top-posts-browser.png)
 ![top-posts-postman](/public/screenshots/top-posts-postman.png)
 
-[http://localhost:3000/comments](http://localhost:3000/comments)
+#### - `http://localhost:3000/comments`
 ![comments-browser](/public/screenshots/comments-browser.png)
 ![comments-postman](/public/screenshots/comments-postman.png)
 
-[http://localhost:3000/comments?email=@garfield.biz](http://localhost:3000/comments?email=@garfield.biz)
+#### - `http://localhost:3000/comments?email=@garfield.biz``
 ![comments-filter-email-browser](/public/screenshots/comments-filter-email-browser.png)
 ![comments-filter-email-postman](/public/screenshots/comments-filter-email-postman.png)
 
-[http://localhost:3000/comments?email=.biz&name=id&body=dolor](http://localhost:3000/comments?email=.biz&name=id&body=dolor)
+#### - `http://localhost:3000/comments?email=.biz&name=id&body=dolor`
 ![comments-filter-all-browser](/public/screenshots/comments-filter-all-browser.png)
 ![comments-filter-all-postman](/public/screenshots/comments-filter-all-postman.png)
