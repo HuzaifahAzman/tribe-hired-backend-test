@@ -52,7 +52,7 @@ Open [http://localhost:3000](http://localhost:3000) to call your API in the brow
 ![comments-browser](/public/screenshots/comments-browser.png)
 ![comments-postman](/public/screenshots/comments-postman.png)
 
-#### - `http://localhost:3000/comments?email=@garfield.biz``
+#### - `http://localhost:3000/comments?email=@garfield.biz`
 ![comments-filter-email-browser](/public/screenshots/comments-filter-email-browser.png)
 ![comments-filter-email-postman](/public/screenshots/comments-filter-email-postman.png)
 
